@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Build/output folders
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archives
+*.tar.gz
+*.zip
+*.rar
+
+# Replit garbage (jeśli coś zostało)
+restored_project*/
+.replit
+.repl*
+*.bin
+local_state*/
+
+# Server public (jeśli nie chcesz wrzucać wygenerowanego public w server)
+server/public/
+
+# Optional: jeśli masz TypeScript i nie chcesz ignorować wszystkich vite.config.ts
+# (nie dodawaj vite.config.ts.* – lepiej nie ignorować configu!)
+
+# Inne tymczasowe
+.idea/
+.vscode/
+*.swp
+*.swo
