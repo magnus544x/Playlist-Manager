@@ -1,0 +1,56 @@
+1
+# ==============================================================================
+# INSTRUKCJA OBSŁUGI PLIKU PLAYLISTY (test.txt)
+# ==============================================================================
+#
+# Ten plik służy do konfigurowania listy odtwarzania w Twoim odtwarzaczu.
+#
+# ZASADY:
+# 1. PIERWSZA LINIA tego pliku jest kluczowa:
+#    - Wpisz "1", aby playlista była WIDOCZNA w programie.
+#    - Wpisz "0", aby playlista była UKRYTA (wyłączona).
+#
+# 2. FORMAT WPISÓW:
+#    Możesz wklejać tutaj linki do strumieni wideo (m3u8, mp4, itp.).
+#    Program spróbuje automatycznie wykryć nazwy i linki.
+#
+# ==============================================================================
+
+#EXTINF:-1,Big Buck Bunny (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1,Elephants Dream (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1,For Bigger Blazes (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+
+#EXTINF:-1,For Bigger Escapes (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
+
+#EXTINF:-1,For Bigger Fun (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
+
+#EXTINF:-1,For Bigger Joyrides (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+
+#EXTINF:-1,For Bigger Meltdowns (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4
+
+#EXTINF:-1,Sintel (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1,Subaru Outback On Street And Dirt (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
+
+#EXTINF:-1,Tears of Steel (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+#EXTINF:-1,Volkswagen GTI Review (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4
+
+#EXTINF:-1,We Are Going On Bullrun (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4
+
+#EXTINF:-1,What care can you get for a grand? (Test MP4)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4
