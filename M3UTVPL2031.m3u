@@ -1,0 +1,657 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo//tvplogo2.png",TVP
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2613&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo//tvp1logo2.png",TVP 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2604&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo//tvp2logo2.png",TVP 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2607&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvrepublikalogo2.png",TV Republika
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2745&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/wpolsche.png",wPolsce 24
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2732&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polonia1-removebg-preview.png",Polonia 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2616&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvp_polonia-removebg-preview.png",TVP Polonia
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2619&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo//tvn2802.png",TVN
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2622&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo//tvn7logo2.png",TVN 7
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2625&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo//ttvlogo2.png",TTV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2628&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvpulslogo2.png",TV PULS
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2631&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/puls2logo2.png",Puls 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2634&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo//polsatlogo2.png",Polsat
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2637&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsat2logo2.png",Polsat 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2640&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVTRWAM%20(1).png",Trwam Tv
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2644&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/superpolsatlogo2.png",Super Polsat
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2649&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tv4-new.png",TV 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2652&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/sweden_logo//TV6.png",TV 6
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2655&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/de//tele5logo2.png",TELE5
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2658&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tbn-polska.png",TBN Polska
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2661&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Telewizja-wtk-logo.png",WTK
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2667&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvpulslogo2.png",TV PULS TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2633&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsat.rodrizana.png",POLSAT RODZINA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2648&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tbn+pols.png",TBN Poland
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2662&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvs.png",TVS
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2665&extension=m3u8
+#EXTINF:-1 group-title="📺 • Ogolne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/13+Ulica.png",DlaCiebie. TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2670&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/de//tele5logo2.png",TVP INFO
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2705&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvn24logo2.png",TVN 24
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2708&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvn24bislogo2.png",TVN 24 BiS
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2711&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/biznes24.png",BIZNES 24
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2714&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_News_2021%20(1).png",Polsat News
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2717&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_News_2_2021.png",Polsat News 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2720&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsat-news-polityka-logo-png_seeklogo-518560.png",Polsat News Polityka
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2723&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/WYDARZENIA%2024.png",Wydarzenia 24
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2726&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVP-World-Logo.png",TVP World
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2731&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/albania_logo/news24logo.png",NEWS 24
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2752&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/can_logo/euronewslogo.png",EURONEWS
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2737&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/CNNlogo.png",CNN
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2740&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/mexico/BBC_World_News.png",BBC WORLD NEWS
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2741&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/TR/haberlogo//bloomberg.png",BLOOMBERG
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2744&extension=m3u8
+#EXTINF:-1 group-title="📰 • Informacyjne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/echo_24%20(1).png",ECHO 24
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2755&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVP+Seriale.png",TVP Seriale
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2994&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsat.seriale.png",Polsat Seriale
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2997&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/canalserialelogo2.png",CANAL+ SERIALE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3002&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/AXN_logo.png",AXN
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3005&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/axnspinhd.png",AXN SPIN
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3009&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/tr-bein-movies/fx.png",FX
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3016&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/FX_Comedy_Logo_2023.png",Fx Comedy
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3019&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/sweden_logo/ParamountNetwork.png",Paramount Network
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3022&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/13ulikalogo2.png",13 Ulica
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3025&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/scifiuniversallogo2.png",SciFi Universal
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3028&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/exyu/sci%20fi%20tv%20logo%20png.png",Sci—Fi
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3029&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/canada/amchddd.png",AMC
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3033&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/metrologo.png",Metro
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3036&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/bg/Epic_Drama_2018.png",Epic Drama
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3039&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/romance_tv.png",Romance TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3042&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/NOWA+TV.png",NOWA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3044&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/AXN_logo.png",AXN
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3006&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/axnspinhd.png",AXN SPIND
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3010&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/de.new.popi/axn.black.logo.png",AXN BLACK
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3012&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq//prt//AXNWHITE.png",AXN WHITE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3015&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/exyu/sci%20fi%20tv%20logo%20png.png",SciFi
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3030&extension=m3u8
+#EXTINF:-1 group-title="🎬 • Seriale" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/NOWA+TV.png",NOWA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3046&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsat.film.png",POLSAT FILM
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3050&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_Film_2_Poziome_2021%20(1).png",POLSAT FILM 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3053&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal+premium.png",Canal+ Premium
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3057&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal+1.png",CANAL+ 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3060&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal360_1920x1080%20(1).png",CANAL+ 360
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3063&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/canalfilmlogo2.png",CANAL+ FILM
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3066&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/HBOlogo.png",HBO
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3069&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/canada/HBO_2.png",HBO 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3072&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/netherland_logo/hbo_3_logo.png",HBO 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3075&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/cinemaxlogo2.png",Cinemax
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3078&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo//cinemax2logo2.png",Cinemax 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3081&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Warner+TV.png",Warner Tv
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3084&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/filmboxpremiumlogo2.png",Filmbox Premium
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3087&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/filmboxextralogo.png",FILMBOX EXTRA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3094&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/alekinoplushdlogo.png",Ale Kino+
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3099&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/russia_logo/KinoTV-logo-black.png",Kino Tv
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3102&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/kinopolskalogo.png",KINO POLSKA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3105&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/ar/showtime%20disney%20tv%20logo.png",SHOWTIME 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3109&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Showtime_2_logo.png",SHOWTIME 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3112&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/romania_logo/bollywood.png",Bollywood
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3116&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/stopklatkatvlogo.png",STOPKLATKA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3121&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Novelas+.png",Novelas+
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3122&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//TR//filmaxlogo.png",FILMAX
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3139&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/NOVELA+TV.png",NOVELA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3143&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/filmboxactionlogo2.png",Filmbox Action
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3090&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo//filmboxfamilylogo2.png",Filmbox Family
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3092&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/filmboxarthouselogo.png",Filmbox Arthouse
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3097&extension=m3u8
+#EXTINF:-1 group-title="📽️ • Filmowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/stopklatkatvlogo.png",Stopklatka
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3119&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo//tvpkulturalogo2.png",TVP Kultura
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2756&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//esp_logo//historia.png",TVP Historia
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2762&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatdokulogo2.png",Polsat Doku
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2764&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/sweden_logo/BBC_Earth_logo.png",BBC Earth
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2767&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/discovery_channel.png",Discovery Channel
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2771&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/discoverylifelogo2.png",Discovery Life
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2774&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="https://epg.ovh/logo/Discovery+Science.png",Science Poland
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2777&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//netherland_logo//Discovery_Science_logo.png",Discovery Science
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2779&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//espana//nationalgeographiclogo.png",National Geographic
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2784&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/can_logo/NatGeo_Wild_logo.png",National Geographic Wild
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2787&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/ar/osn%20nat%20geo%20people%20tv%20logo.png",Nat Geo People
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2790&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/bosna/250px-2018_Animal_Planet_logo.svg.png",Animal Planet
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2793&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/Crime-investigation.png",Crime & Investigation
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2796&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/adventurelogo2.png",ADVENTURE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2799&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/canal.dokument.png",Canal+ Dokument
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2803&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/fokustvlogo2.png",FOKUS TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2808&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//UK_logo/gr-logo//TravelChannelLogo.png",Travel Channel
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2812&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//finland_logo//History2logo.png",History 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2815&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//greece_logo//historyhdlogo.png",History
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2818&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/albania_logo/idxtras.png",ID
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2821&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/albania_logo/docubox.png",DocuBox
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2824&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/planetelogo2.png",Planete+
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2827&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatviasatexplorelogo3.png",Polsat Viasat Explore
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2830&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatviasathistorylogo2.png",Polsat Viasat History
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2833&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_x_logo_2025%20(1).png",POLSAT X
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2836&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatviasatnaturelogo2.png",Polsat Viasat Nature
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2839&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Viasat_True_Crime%20(1).png",Viasat True Crime
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2842&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/nauka.png",TVP Nauka
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2845&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/doku%20(2).png",TVP Dokument
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2848&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/studiomedd.png",StudioMed TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2851&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo//water.png",Water Planet
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2853&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/home.tv.png",HOME TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2863&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Discovery+Historia.png",Discovery Historia
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2782&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/Crime-investigation.png",CRIME AND INVESTIGATION
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2797&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/rusya%20yap%E8%80%83anlar%207/da_vinci_learning.png",Da Vinci Learning
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2802&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="https://epg.ovh/logo/Travel+Channel.png",Travelxp 4K
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2811&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/studiomedd.png",Studiomed
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2852&extension=m3u8
+#EXTINF:-1 group-title="🐘 • Przyrodznicze / Naukowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/russia_logo/museum.png",Museum 4K
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2857&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsatreality_reprodukcja%20(1).png",POLSAT REALITY
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2870&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvnfabulalogo2.png",TVN Fabula
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2877&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVN+Style+.png",TVN Style
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2880&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/kobieta.png",TVP Kobieta
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2883&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvnturbologo2.png",TVN Turbo
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2887&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatcafelogo2.png",Polsat Cafe
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2890&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsatplaylogo2.png",Polsat Play
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2893&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsat.comedy.extra.png",Polsat Comedy Central Extra
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2899&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/BBC+Brit.png",BBC BRIT
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2901&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/bbcfirstlogo.png",BBC FIRST
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2904&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/BBC+Lifestyle.png",BBC LIFESTYLE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2907&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/romania_logo/filmcafe.png",FILM CAFE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2910&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/it_logo/CBS_Reality.png",CBS Reality
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2913&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/can_logo/Comedy_Centrallogo.png",Comedy Central Poland
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2916&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/WP.png",WP
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2920&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/red-carpet.png",Red Carpet TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2924&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/zoomtvlogo.png",Zoom TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2927&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/activefamilylogo.png",ACTIVE FAMILY
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2930&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatgameslogo.png",Polsat Games
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2933&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVC.png",TVC
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2936&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Antena.png",ANTENA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2938&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/dtxlogo2-removebg-preview.png",DTX
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2949&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/TR/tlc.png",TLC
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2956&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/asian/hgtv.png",HGTV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2959&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq//prt//foodnetwork.png",Food Network
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2967&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Kuchnia+.png",CANAL+ KUCHNIA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2969&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Espresso_(Sabrina_Carpenter_logo)%20(1).png",ESPRESO TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2986&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/curent.png",CURRENT TIME
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2989&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/cda-logo-png_seeklogo-397780.png",PORUCZNIK KABURA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2992&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVP+Rozrywka.png",TVP Rozrywka
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2868&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/kab.png",KABARET
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2874&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq//russia_logo//myzen.png",MyZen 4K
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2886&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="https://epg.ovh/logo/Comedy+Central.png",COMEDY CENTRAL
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2918&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/red-carpet.png",Red Carpert TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2923&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/red-carpet.png",RED CARPET
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2925&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/zoomtvlogo.png",ZOOM
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2928&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvn_pl_extra-removebg-preview.png",ITVN Extra
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2942&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/InUltra_portrait-blue%20(1).png",Inultra
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2946&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/sundance.png",Sundance TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2962&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/gametoon-hd-logo-DD4AEDBADB-seeklogo.com.png",Gametoon
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2965&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/albania_logo/fastfunbox.png",Fast&FunBox
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2978&extension=m3u8
+#EXTINF:-1 group-title="🎱 • Rozrywka" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/e0683d48-097f-4039-af5e-3d64873c0ef8_rw_3840%20(1).png",KAPITAN BOMBA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2983&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/11500386.png",TVN BRZYDULA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3209&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/11500387.png",TVN MAM TALENT
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3206&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVNKryminalnie.png",TVN KRYMINALNIE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3203&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVN_Kultowe_Seriale.png",TVN KULTOWE SERIALE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3197&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVNMomentyPrawdy.png",TVN MOMENTY PRAWDY
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3194&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVNMoto.png",TVN MOTO
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3191&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVNKulinarnePodroze.png",TVN KULINARNE PODRÓŻE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3188&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVN_Pora_na_Show.png",TVN PORA NA SHOW
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3185&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/10195810.png",TVN PATROL
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3182&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVN_Prawo_i_3Fycie_logo.png",TVN PRAWO I ZYCIE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3177&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55090849.png",TVN RAJSKA MILOSC
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3176&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55089743.png",TVN SERIALE O KOBIETACH
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3170&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVN_Szko3Fycia.png",TVN SZKOLA ZYCIA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3167&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVN_Talk_Show.png",TVN TALK—SHOW
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3161&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55089677.png",TVN TELENOWELE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3158&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55089575.png",TVN USTERKA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3155&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55090792.png",TVN ZYCIE JAK W BAJCE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3149&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55311976.png",TVN Milionerzy
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3146&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVNRewowKuchnii.png",TVN REWOLUCJE W KUCHNI
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3171&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55080443.png",TVN SZPITALNE HISTORIE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3163&extension=m3u8
+#EXTINF:-1 group-title="📺 • Player" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/55090765.png",TVN W DOMU
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3151&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/davincilearninglogo2.png",DA VINCI
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3213&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/hu/ducktvlogo.png",DUCK TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3270&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvpabclogo2.png",TVP ABC
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3216&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/miniminilogo2.png",MiniMini+
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3220&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/de-kids/cartoonito.png",Cartoonito
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3224&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/asian/tamil/CartoonNetworklogo.png",Cartoon Network
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3227&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/DisneyChannellogo.png",Disney Channel
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3230&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Junior_music%20(1).png",JUNIOR MUSIC
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3240&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/TR/cocuk-eba-logo/nicktoons.png",Nicktoons
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3245&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/teen-nick.png",TeenNick
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3250&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/france_logo/teletoonlogo2.png",TeleToon+
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3255&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Top_Kids_29%20(1).png",TOP KIDS
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3258&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/telekanal-2x2-logo-png_seeklogo-352679.png",2x2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3264&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/BBC+CBeebies.png",BBC CBeebies
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3210&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq//netherland_logo//Baby_tv_logo.png",Baby Tv
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3218&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq//italy_logo//disney%20xd%20tv%20logo.png",Disney XD
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3233&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/greece_logo/disneyjuniorlogo.png",DISNEY JUNIOR
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3236&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Duck_TV_Plus%20(1)%20(1).png",Duck Tv Plus
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3238&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="https://epg.ovh/logo/Nickelodeon.png",NICKELODEON
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3243&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/france_logo/france.new.popi/enfants/nick.jr.png",Nick Jr  Polska
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3248&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatjimjamlogo2.png",Polsat Jim Jam
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3253&extension=m3u8
+#EXTINF:-1 group-title="🧒 • Bajki" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/4FUN+KIDS.png",4Fun Kids
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3261&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/canal+sport.png",CANAL+ SPORT
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3272&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal++Sport+2.png",CANAL+ SPORT 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3275&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/canal+sport3.png",CANAL+ SPORT 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3278&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/canal+sport4.png",CANAL+ SPORT 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3281&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/nsport+.png",CANAL+ SPORT 5
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3284&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal+_Now.png",Canal+ Now
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3287&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Eleven+Sports+1.png",Eleven Sports 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3299&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/italy_logo/eleven%202.png",Eleven Sports 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3302&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/italy_logo/eleven%203.png",Eleven Sports 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3305&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/italy_logo/eleven%204.png",Eleven Sports 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3308&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="https://epg.ovh/logo/Polsat+Spor+.png",Polsat Sport 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3311&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_Sport_Fight_2021_gradient.png",Polsat Sport Fight
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3317&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_Sport_3_2024.png",Polsat Sport 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3320&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3323&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3329&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat+Sport+Premium+6.png",Polsat Sport Premium 6
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3338&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvpsportlogo2.png",TVP Sport
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3342&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/sky-dazn/esports1.png",E—SPORT
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3345&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal282024-.png",CANAL+  EXTRA 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3350&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal282024-.png",CANAL+  EXTRA 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3352&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal282024-.png",CANAL+ EXTRA 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3354&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal282024-.png",CANAL+ EXTRA 5
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3356&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal282024-.png",CANAL+ EXTRA 6
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3358&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/eurosport1.png",Eurosport 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3373&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/albania_logo/eurosport2logo.png",Eurosport 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3376&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/sportowa.png",SPORTOWA.TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3380&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/netherland_logo/extreme_sports_logo.png",Extreme Sports
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3381&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/sportklublogo2.png",Sport Klub
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3384&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/fightboxuk.png",Fightbox
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3387&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/FIGHTKLUB.png",Fightklub
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3389&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Motowizja.png",MOTOWIZJA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3392&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Golf+Channel.png",Golf Zone
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3395&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Eurosport_Player_Logo_(2011-2015)%20(1).png",Eurosport Extra Player 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3414&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Eurosport_Player_Logo_(2011-2015)%20(1).png",Eurosport Extra Player 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3416&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Eurosport_Player_Logo_(2011-2015)%20(1).png",Eurosport Extra Player 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3417&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Eurosport_Player_Logo_(2011-2015)%20(1).png",Eurosport Extra Player 5
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3418&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/greece_logo/ginx.png",GINX ESPORTS TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3443&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_Sport_2_2024.png",POLSAT SPORT 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3315&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3327&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3333&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Polsat_Sport_News_Logo_2016.png",Polsat Sport News
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3341&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Canal282024-.png",CANAL+ EXTRA 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3349&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/sky-dazn/eurosport4k.png",Eurosport 4K
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3379&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq//it-sport-dazn//dazn-4.png",DAZN 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3400&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Golf+Channel.png",Golf Zone Polska
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3411&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/nl-sport/viaplay.png",Viaplay/KSW TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3413&extension=m3u8
+#EXTINF:-1 group-title="⚽️ • Sportowe" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/sportowa.png",SPORTOWA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3438&extension=m3u8
+#EXTINF:-1 group-title="📺 • Viaplay XTRA" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/ViaplayXtralogo.png",Viaplay Xtra
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3445&extension=m3u8
+#EXTINF:-1 group-title="📺 • Viaplay XTRA" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/ViaplayXtralogo.png",Viaplay Xtra 6
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3451&extension=m3u8
+#EXTINF:-1 group-title="📺 • Viaplay XTRA" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/ViaplayXtralogo.png",Viaplay Xtra 8
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3453&extension=m3u8
+#EXTINF:-1 group-title="📺 • Viaplay XTRA" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/ViaplayXtralogo.png",Viaplay Xtra 9
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3454&extension=m3u8
+#EXTINF:-1 group-title="📺 • Viaplay XTRA" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/ViaplayXtralogo.png",Viaplay Xtra 12
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3457&extension=m3u8
+#EXTINF:-1 group-title="📺 • Viaplay XTRA" tvg-logo="http://patoscrotos.me/erxcswxczqqq/UK_logo/uk_unitedKindom_logo/ViaplayXtralogo.png",Viaplay Xtra 13
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3458&extension=m3u8
+#EXTINF:-1 group-title="📺 • Emocje TV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/emocje.png",EmocjeTV 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3462&extension=m3u8
+#EXTINF:-1 group-title="📺 • Emocje TV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/emocje.png",EmocjeTV 3
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3464&extension=m3u8
+#EXTINF:-1 group-title="📺 • Emocje TV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/emocje.png",EmocjeTV 4
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3465&extension=m3u8
+#EXTINF:-1 group-title="📺 • Emocje TV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/emocje.png",EmocjeTV 5
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3466&extension=m3u8
+#EXTINF:-1 group-title="📺 • Emocje TV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/emocje.png",EmocjeTV 6
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3467&extension=m3u8
+#EXTINF:-1 group-title="📺 • Emocje TV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/emocje.png",EmocjeTV 7
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3468&extension=m3u8
+#EXTINF:-1 group-title="📺 • Emocje TV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/emocje.png",EmocjeTV 8
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3469&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/russia_logo/mtvlive.png",MTV Live
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3473&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/eskarocklogo2.png",ESKA ROCK TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3500&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/eskalogo2.png",Eska TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3493&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/voxmusiclogo2.png",VOX MUSIC TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3516&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/unnamed%20(4).png",360 TuneBox
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3501&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/polsatmusiclogo2.png",Polsat Music
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3505&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/discopolomusiclogo2.png",DISCO POLO MUSIC
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3508&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/eskatvextralogo2.png",ESKA TV Extra
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3509&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo/polotvlogo2.png",Polo TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3522&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Stars+TV.png",STARS TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3530&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Ultra-tv-logo.png",ULTRA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3535&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/mixtape%20(1).png",MIXTAPE
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3537&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/musicbox.png",MUSICBOX POLSKA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3541&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Jazz_TV_29%20(1).png",JAZZ TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3539&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/nuta.png",NUTA TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3542&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/nuta-gold.png",NUTA GOLD
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3544&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/POWER+TV.png",POWER TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3548&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/espana/mtvlogo.png",MTV POLSKA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3472&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/de-music/mtv.00.png",MTV 00s
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3477&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/de-music/mtv.90.png",MTV 90's
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3479&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/DE_YENI/de-music/mtv.80.png",MTV 80's
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3481&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//mexico/MTV_Hits.png",MTV Hits
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3485&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//DE_YENI/de-music/mtv.club.png",MTV Club
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3483&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo/4fungoldhitslogo2.png",4Fun Gold Hits
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3491&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo/4fundancelogo2.png",4Fun Dance
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3489&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo/4fun+TV.png",4FUN TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3487&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo/4funtvlogo2.png",4Fun.TV
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3486&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//poland_logo/Kino+Polska+Muzyka.png",Kino Polska Muzyka
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3512&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//netherland_logo/nickmusic_logo.png",Nick Music
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3515&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Jazz_TV_29%20(1).png",JAZZ
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3527&extension=m3u8
+#EXTINF:-1 group-title="🎧 • Muzyczne" tvg-logo="http://patoscrotos.me/erxcswxczqqq//finland_logo/VH1logonew.png",VH1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3531&extension=m3u8
+#EXTINF:-1 group-title="📺 • PPV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Fame_MMA.png",FAME MMA
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3574&extension=m3u8
+#EXTINF:-1 group-title="📺 • PPV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/download.png",PPV Event 1
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3549&extension=m3u8
+#EXTINF:-1 group-title="📺 • PPV" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/download.png",PPV Event 2
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=3550&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TV-Regio__2_-removebg-preview.png",TV REGIO
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2704&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/2182200%20(1).png",TVT
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2700&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/TVK-10-20-2025%20(1).png",TV Kujawy
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2694&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvtorunlogo2.png",TV Torun
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2692&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/Tvp_bia%C5%82ystok.jpg",TVP 3 Bialystok
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2688&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/byd.png",TVP 3 Bydgoszcz
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2687&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/good.png",TVP 3 Gdansk
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2686&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/tvp3.png",TVP 3 Gorzow Wielkopolski
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2685&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/kato.png",TVP 3 Katowice
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2684&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/kiel.png",TVP 3 Kielce
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2683&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Krakow
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2682&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Lodz
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2681&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Lublin
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2680&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Olsztyn
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2679&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Opole
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2678&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Poznan
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2677&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Rzeszow
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2676&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Szczecin
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2675&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Warszawa
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2674&extension=m3u8
+#EXTINF:-1 group-title="🏡 • Regionalne" tvg-logo="http://patoscrotos.me/erxcswxczqqq/poland_logo/ssee.png",TVP 3 Wroclaw
+http://nomadstv.live:8080/play/live.php?mac=00:1A:79:13:55:D7&stream=2673&extension=m3u8
