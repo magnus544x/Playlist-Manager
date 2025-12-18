@@ -1,0 +1,441 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP 1
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229655
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP 2
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",W Polsce
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TV Republika
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP POLONIA
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229657
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP 3
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229656
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVN Style
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229654
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",SUNDANCE TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Polsat Sport
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229652
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Polsat Sport FIGHT
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229651
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",POLSAT FILM
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229650
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",ViaPlay Xtra 2
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229643
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Fight Klub
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229639
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Eleven
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229634
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Extreme Sports
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229633
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Polsat Sport Premium 5
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229628
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Fightbox
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Zoom TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229615
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Water Planet
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Warner TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229612
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP Kultura
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP Dokument
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229595
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP ABC
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVP 3 Warszawa
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVN 24 BiS
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVN
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TVC
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TV TRWAM
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229583
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TV Torun
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TV Puls
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",TV Kujawy
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229578
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Stars TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",sci—fi
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Romance
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Puls 2
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Polsat Cafe
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Polsat
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Polo TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",PLANETE
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Nuta TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Nowa TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Novela TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Nicktoons
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",nickelodeon
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Nick Junior
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",NAT GEO Wild
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",NAT GEO People
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229539
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",NAT GEO
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",MTV Polska
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Motowizja
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",MiniMini
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Kino TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Kino Polska Muzyka
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",History 2
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",History
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",HGTV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",HBO 3
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",HBO 2
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",HBO
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Fox Comedy
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Fox
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Food Network
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",FilmBox Premium
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",FilmBox Extra
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",FilmBox Arthouse
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",FilmBox Action
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",FIGHT BOX
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Extreme Sports Channel
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Eska TV Extra
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229510
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Eska TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229509
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Crime  Investigation
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Comedy Central Extra
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229495
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Comedy Central
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229494
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Cinemax 2
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",CANAL  Kuchnia
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229485
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",CANAL  Dokument
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Biznes 24
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",BBC Lifestyle
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",BBC First
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",BBC Earth
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",BBC Brit Polska
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Baby TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229474
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",AXN White
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",AXN Spin
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",AXN Black
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",AXN
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229470
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",ANIMAL PLANET
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229469
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Ale Kino
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229467
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",Active Family
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229465
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",4Fun TV
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 PL-POLAND",4Fun Kids
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/229463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 01
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239698
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 02
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239699
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 03
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 04
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 05
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 06
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 07
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 08
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239705
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 09
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 10
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 11
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 12
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 13
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 14
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 15
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239712
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 16
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 17
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 18
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 19
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 20
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 21
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 22
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 23
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 24
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 25
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282380
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 26
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 27
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282378
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 28
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 29
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 30
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 31
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 32
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 33
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 34
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—ADULT 35
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/282370
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 02
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 03
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 04
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 05
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 06
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 07
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 08
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 09
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 10
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 11
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 12
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 13
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 14
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239799
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 15
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 16
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 17
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 18
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 19
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 20
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 21
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 22
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239791
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 23
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 24
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239789
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 25
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 26
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 27
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 28
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 29
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 30
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 31
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239782
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 33
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 34
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 35
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 36
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 37
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 38
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 39
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 40
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 41
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 42
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 44
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 45
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 46
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 47
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 48
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 49
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 51
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 52
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 53
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 54
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 55
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239758
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 56
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 57
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 58
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 59
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 60
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 61
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239752
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 62
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 63
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 64
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 65
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 66
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 67
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239746
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 68
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 69
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 71
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 72
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 73
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 74
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 76
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239737
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 77
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 78
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 79
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 80
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 81
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239732
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 82
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239731
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 83
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 84
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 85
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 86
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 87
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 88
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 89
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 90
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239723
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 91
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239722
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 92
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 93
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 94
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 95
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239718
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 96
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 97
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239716
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 98
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239715
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 99
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="𖤐 XXX - ADULT",XXX—Adult Star 100
+http://128958.premiumserver.st:80/CetinOzkaya/jpvp95481m/239713

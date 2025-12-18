@@ -1,0 +1,529 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880364.png" group-title="OGÓLNOTEMATYCZNE",TVP
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880364&extension=ts&play_token=cXGSAQnThF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880520.png" group-title="OGÓLNOTEMATYCZNE",TVP 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880520&extension=ts&play_token=MrTE1CJuuA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880519.png" group-title="OGÓLNOTEMATYCZNE",TVP 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880519&extension=ts&play_token=CcJVtbgHQT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880203.png" group-title="INFORMACYJNE",TV REPUBLIKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880203&extension=ts&play_token=nTL4MHDUyx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880191.png" group-title="INFORMACYJNE",WPOLSCE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880191&extension=ts&play_token=YfDVbFGY8Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880512.png" group-title="INFORMACYJNE",TVN24
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880512&extension=ts&play_token=bZBXl8NLg7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880513.png" group-title="INFORMACYJNE",TVN24 BIS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880513&extension=ts&play_token=xAmq1QnjTL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880503.png" group-title="INFORMACYJNE",TVP INFO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880503&extension=ts&play_token=2icUZw1qNk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121739.png" group-title="INFORMACYJNE",TVP WORLD
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121739&extension=ts&play_token=dNpK476Ikr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/1977093.png" group-title="INFORMACYJNE",WYDARZENIA 24
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1977093&extension=ts&play_token=vcKjluj0UD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880441.png" group-title="INFORMACYJNE",POLSAT NEWS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880441&extension=ts&play_token=193zcENTXL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880227.png" group-title="INFORMACYJNE",POLSAT NEWS 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880227&extension=ts&play_token=UwwNptg4gY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121738.png" group-title="INFORMACYJNE",NEWS 24
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121738&extension=ts&play_token=XN1katLRm9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880444.png" group-title="INFORMACYJNE",BIZNES24
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880444&extension=ts&play_token=k6pJtiWXfd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880391.png" group-title="INFORMACYJNE",POLSAT NEWS POLITYKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880391&extension=ts&play_token=UxhHWp7Eup
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880498.png" group-title="FILMOWE",CANAL+ PREMIUM
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880498&extension=ts&play_token=UN55OYdbBn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880501.png" group-title="FILMOWE",CANAL+ 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880501&extension=ts&play_token=wO7sHuuKNS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880491.png" group-title="FILMOWE",CANAL+ FILM
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880491&extension=ts&play_token=Jgxeo8bWx3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880497.png" group-title="FILMOWE",CANAL+ SERIALE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880497&extension=ts&play_token=5QYJke65Rh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880494.png" group-title="FILMOWE",HBO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880494&extension=ts&play_token=SQtoBWZilW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880496.png" group-title="FILMOWE",HBO 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880496&extension=ts&play_token=hHUL1H009n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880505.png" group-title="FILMOWE",POLSAT FILM
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880505&extension=ts&play_token=cmLajYqabB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880473.png" group-title="FILMOWE",WARNER TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880473&extension=ts&play_token=ITf18KS10A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880492.png" group-title="FILMOWE",13 ULICA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880492&extension=ts&play_token=ym4UMYp1rM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880350.png" group-title="FILMOWE",AXN
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880350&extension=ts&play_token=TFIzUIMbt1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880489.png" group-title="FILMOWE",AXN SPIN
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880489&extension=ts&play_token=bvsTSUm7yx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880235.png" group-title="FILMOWE",AXN WHITE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880235&extension=ts&play_token=WfqaM1m2bN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880236.png" group-title="FILMOWE",AXN BLACK
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880236&extension=ts&play_token=DajatxRdlc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880485.png" group-title="FILMOWE",CINEMAX
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880485&extension=ts&play_token=m8SdykIQF8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880488.png" group-title="FILMOWE",CINEMAX 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880488&extension=ts&play_token=X196XI7Twj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880483.png" group-title="FILMOWE",FILMBOX PREMIUM
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880483&extension=ts&play_token=5Dcu2GIjNg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880344.png" group-title="FILMOWE",FILMBOX EXTRA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880344&extension=ts&play_token=YWwQ7f80vU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880233.png" group-title="FILMOWE",FILMBOX ACTION
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880233&extension=ts&play_token=PwlR5UenEI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880231.png" group-title="FILMOWE",FILMBOX FAMILY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880231&extension=ts&play_token=KYR07QEu2g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880487.png" group-title="FILMOWE",COMEDY CENTRAL
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880487&extension=ts&play_token=vY4IDiD8VG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880403.png" group-title="FILMOWE",POLSAT COMEDY CENTRAL EXTRA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880403&extension=ts&play_token=GLujrkUWv7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880486.png" group-title="FILMOWE",COMEDY CENTRAL POLAND
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880486&extension=ts&play_token=m1Yfg3iRee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880476.png" group-title="FILMOWE",KINO POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880476&extension=ts&play_token=TYPg65pRvP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880507.png" group-title="FILMOWE",POLSAT SERIALE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880507&extension=ts&play_token=WhwONlwl5x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880337.png" group-title="FILMOWE",FX
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880337&extension=ts&play_token=SJyzVKwZzQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880451.png" group-title="FILMOWE",SCIFI UNIVERSAL
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880451&extension=ts&play_token=yRyUfIbg0V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880291.png" group-title="FILMOWE",CBS EUROPA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880291&extension=ts&play_token=HmC5yDtIsj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880229.png" group-title="FILMOWE",STOPKLATKA TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880229&extension=ts&play_token=Any184M8fL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880392.png" group-title="FILMOWE",SUNDANCE TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880392&extension=ts&play_token=7VK2LK28PQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880394.png" group-title="FILMOWE",ROMANCE TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880394&extension=ts&play_token=zeuhQx9PY6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880410.png" group-title="FILMOWE",NOVELAS+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880410&extension=ts&play_token=9xuvM2oWFI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880395.png" group-title="FILMOWE",RED CARPET TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880395&extension=ts&play_token=0ymvNzPV76
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880197.png" group-title="FILMOWE",VOD 205
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880197&extension=ts&play_token=rAv0tDhuLp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880240.png" group-title="OGÓLNOTEMATYCZNE",TVP 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880240&extension=ts&play_token=yrwI4VROeB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121741.png" group-title="OGÓLNOTEMATYCZNE",TVP KOBIETA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121741&extension=ts&play_token=CK40mRa05h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880237.png" group-title="OGÓLNOTEMATYCZNE",TVP ROZRYWKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880237&extension=ts&play_token=ndfmL8A0aR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880387.png" group-title="OGÓLNOTEMATYCZNE",TVP KULTURA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880387&extension=ts&play_token=Td8KdVWPOB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880389.png" group-title="OGÓLNOTEMATYCZNE",TTV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880389&extension=ts&play_token=m6w76R1ica
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880518.png" group-title="OGÓLNOTEMATYCZNE",TVN
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880518&extension=ts&play_token=g10S41kfbB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880517.png" group-title="OGÓLNOTEMATYCZNE",TVN 7
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880517&extension=ts&play_token=sRxt8YN7To
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880516.png" group-title="OGÓLNOTEMATYCZNE",TVN FABULA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880516&extension=ts&play_token=cxJJBCbij4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880515.png" group-title="OGÓLNOTEMATYCZNE",TVN STYLE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880515&extension=ts&play_token=CqCn6BcQ0I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880514.png" group-title="OGÓLNOTEMATYCZNE",TVN TURBO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880514&extension=ts&play_token=dCAKlpyxc8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1629540.png" group-title="OGÓLNOTEMATYCZNE",TBN POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1629540&extension=ts&play_token=CwwlzceNVK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880386.png" group-title="OGÓLNOTEMATYCZNE",SUPER POLSAT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880386&extension=ts&play_token=3xaTPLl8WB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880509.png" group-title="OGÓLNOTEMATYCZNE",POLSAT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880509&extension=ts&play_token=0kNJWoPzdx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880508.png" group-title="OGÓLNOTEMATYCZNE",POLSAT 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880508&extension=ts&play_token=uNvAngsNFk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880506.png" group-title="OGÓLNOTEMATYCZNE",POLSAT RODZINA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880506&extension=ts&play_token=UebsWI0e17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880404.png" group-title="OGÓLNOTEMATYCZNE",POLSAT CAFE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880404&extension=ts&play_token=omm76xS6ly
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880401.png" group-title="OGÓLNOTEMATYCZNE",POLSAT GAMES
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880401&extension=ts&play_token=XajzguK2a5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880399.png" group-title="OGÓLNOTEMATYCZNE",POLSAT PLAY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880399&extension=ts&play_token=7gIFsAyIXo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880475.png" group-title="OGÓLNOTEMATYCZNE",PULS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880475&extension=ts&play_token=9XZp9XEWBT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880339.png" group-title="OGÓLNOTEMATYCZNE",PULS 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880339&extension=ts&play_token=p6Y6fWjx6f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880510.png" group-title="OGÓLNOTEMATYCZNE",TV4
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880510&extension=ts&play_token=vYgC6FbOTr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880511.png" group-title="OGÓLNOTEMATYCZNE",TV6
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880511&extension=ts&play_token=7pCF7UHCtL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880230.png" group-title="OGÓLNOTEMATYCZNE",TELE 5
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880230&extension=ts&play_token=TkucNAkjbK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1679452.png" group-title="OGÓLNOTEMATYCZNE",EWTN POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1679452&extension=ts&play_token=bES4oV0TmS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1060637.png" group-title="OGÓLNOTEMATYCZNE",ANTENA TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1060637&extension=ts&play_token=GMYFw8aEGT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880474.png" group-title="OGÓLNOTEMATYCZNE",TLC
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880474&extension=ts&play_token=L9W0BtrkE0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880481.png" group-title="OGÓLNOTEMATYCZNE",FOOD NETWORK
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880481&extension=ts&play_token=vcW7oB0Oty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880385.png" group-title="OGÓLNOTEMATYCZNE",HGTV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880385&extension=ts&play_token=xcm3SxlKbT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880214.png" group-title="OGÓLNOTEMATYCZNE",HOME TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880214&extension=ts&play_token=CnK2NfuIOC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880424.png" group-title="OGÓLNOTEMATYCZNE",DOMO+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880424&extension=ts&play_token=OsGoVp1hUK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880415.png" group-title="OGÓLNOTEMATYCZNE",KUCHNIA+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880415&extension=ts&play_token=8T4m0gjkqN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880234.png" group-title="OGÓLNOTEMATYCZNE",ACTIVE FAMILY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880234&extension=ts&play_token=XhqqZ1fh4A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880212.png" group-title="OGÓLNOTEMATYCZNE",METRO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880212&extension=ts&play_token=Dr0l9gM4rc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880201.png" group-title="OGÓLNOTEMATYCZNE",TVS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880201&extension=ts&play_token=vw0RpaeTsc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880407.png" group-title="OGÓLNOTEMATYCZNE",NOWA TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880407&extension=ts&play_token=dtzlhaVmNQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880190.png" group-title="OGÓLNOTEMATYCZNE",ZOOM TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880190&extension=ts&play_token=LuIXqNyLYT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880192.png" group-title="OGÓLNOTEMATYCZNE",WP
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880192&extension=ts&play_token=Wypo6cVydR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880242.png" group-title="OGÓLNOTEMATYCZNE",TVP POLONIA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880242&extension=ts&play_token=SK0lJrGFSA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880241.png" group-title="OGÓLNOTEMATYCZNE",TVP POLONIA 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880241&extension=ts&play_token=pJJyAcydzs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/884764.png" group-title="OGÓLNOTEMATYCZNE",TRWAM TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=884764&extension=ts&play_token=5ICI4JHW7U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880194.png" group-title="FILMOWE",VOD 208
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880194&extension=ts&play_token=uNJ7AjwdeW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1649893.png" group-title="KANAŁY TVN PLAYER",TVN CZAS NA ŚLUB
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1649893&extension=ts&play_token=1dTdRnWGsO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1649891.png" group-title="KANAŁY TVN PLAYER",TVN KULINARNE PODRÓŻE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1649891&extension=ts&play_token=JZHlnY7zHv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1649889.png" group-title="KANAŁY TVN PLAYER",TVN PATROL ONLINE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1649889&extension=ts&play_token=TVzNP9MMep
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433874.png" group-title="KANAŁY TVN PLAYER",TVN KRYMINALNIE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433874&extension=ts&play_token=RuHzgIkzPk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433876.png" group-title="KANAŁY TVN PLAYER",TVN KULTOWE SERIALE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433876&extension=ts&play_token=X3FyL19OGv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433878.png" group-title="KANAŁY TVN PLAYER",TVN MOMENTY PRAWDY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433878&extension=ts&play_token=vz3tgz4hlj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433880.png" group-title="KANAŁY TVN PLAYER",TVN MOTO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433880&extension=ts&play_token=M2xxIb2Jk2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433882.png" group-title="KANAŁY TVN PLAYER",TVN PRAWO I ŻYCIE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433882&extension=ts&play_token=HZrHyUEviY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433884.png" group-title="KANAŁY TVN PLAYER",TVN RAJSKA MIŁOŚĆ
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433884&extension=ts&play_token=9SfmnxkHq7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433886.png" group-title="KANAŁY TVN PLAYER",TVN REWOLUCJE W KUCHNI
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433886&extension=ts&play_token=UTWTvWdI9b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433888.png" group-title="KANAŁY TVN PLAYER",TVN SERIAL O KOBIETACH
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433888&extension=ts&play_token=yKwzxxN4na
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433890.png" group-title="KANAŁY TVN PLAYER",TVN SZKOŁA ŻYCIA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433890&extension=ts&play_token=6ZGdPpYXKX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433892.png" group-title="KANAŁY TVN PLAYER",TVN SZPITALNE HISTORIE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433892&extension=ts&play_token=jUI7uoWuH6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433894.png" group-title="KANAŁY TVN PLAYER",TVN TALK—SHOW
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433894&extension=ts&play_token=OlDb2mIj0G
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433896.png" group-title="KANAŁY TVN PLAYER",TVN TELENOWELE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433896&extension=ts&play_token=Z6tVRjS5aJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433898.png" group-title="KANAŁY TVN PLAYER",TVN USTERKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433898&extension=ts&play_token=OBLy4PQztR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433900.png" group-title="KANAŁY TVN PLAYER",TVN W DOMU
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433900&extension=ts&play_token=UPFZWC2GIG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1496498.png" group-title="KANAŁY TVN PLAYER",TVN MILIONERZY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1496498&extension=ts&play_token=xXMRWw0B7i
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1433902.png" group-title="KANAŁY TVN PLAYER",TVN ŻYCIE JAK W BAJCE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1433902&extension=ts&play_token=SabOivdiE4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1131804.png" group-title="DOKUMENTALNE",LOVE NATURE 4K+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1131804&extension=ts&play_token=hH7m27EZeZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880437.png" group-title="DOKUMENTALNE",ANIMAL PLANET
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880437&extension=ts&play_token=fIlhitBPwm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880434.png" group-title="DOKUMENTALNE",ADVENTURE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880434&extension=ts&play_token=jxJ4w7HBJl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880450.png" group-title="DOKUMENTALNE",BBC BRIT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880450&extension=ts&play_token=JwiGHJcqpv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880436.png" group-title="DOKUMENTALNE",BBC EARTH
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880436&extension=ts&play_token=0vbYPCyo02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880309.png" group-title="DOKUMENTALNE",BBC FIRST
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880309&extension=ts&play_token=AfDWgDyDrr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880435.png" group-title="DOKUMENTALNE",BBC LIFESTYLE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880435&extension=ts&play_token=hFd5HlgdTn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880430.png" group-title="DOKUMENTALNE",CBS REALITY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880430&extension=ts&play_token=poyQ5OQvty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880442.png" group-title="DOKUMENTALNE",CANAL+ DOKUMENT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880442&extension=ts&play_token=f2r93WoeJY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880428.png" group-title="DOKUMENTALNE",DISCOVERY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880428&extension=ts&play_token=eRnzHiNDZt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880426.png" group-title="DOKUMENTALNE",DISCOVERY SCIENCE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880426&extension=ts&play_token=Ww9F3DLlTY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530077.png" group-title="DOKUMENTALNE",DISCOVERY HISTORIA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530077&extension=ts&play_token=eGM0Y3xPLB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880438.png" group-title="DOKUMENTALNE",NATIONAL GEOGRAPHIC
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880438&extension=ts&play_token=DrwiHall84
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880439.png" group-title="DOKUMENTALNE",NAT GEO WILD
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880439&extension=ts&play_token=dUGwfWB385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880440.png" group-title="DOKUMENTALNE",NAT GEO PEOPLE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880440&extension=ts&play_token=ssZd3Chf2r
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880416.png" group-title="DOKUMENTALNE",ID
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880416&extension=ts&play_token=0tPuXkySoz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880429.png" group-title="DOKUMENTALNE",CRIME AND INVESTIGATION
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880429&extension=ts&play_token=P0UPU4yU5a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880423.png" group-title="DOKUMENTALNE",DTX
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880423&extension=ts&play_token=fLjhKJ62hO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880384.png" group-title="DOKUMENTALNE",HISTORY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880384&extension=ts&play_token=MBv7S63wc3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880418.png" group-title="DOKUMENTALNE",H2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880418&extension=ts&play_token=c4RmE4S5UT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880405.png" group-title="DOKUMENTALNE",PLANETE+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880405&extension=ts&play_token=TSqW4dlRBL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880402.png" group-title="DOKUMENTALNE",POLSAT DOKU
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880402&extension=ts&play_token=SNxRs2TlKp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880398.png" group-title="DOKUMENTALNE",POLSAT VIASAT EXPLORE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880398&extension=ts&play_token=HUuTqhxRlX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880396.png" group-title="DOKUMENTALNE",POLSAT VIASAT NATURE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880396&extension=ts&play_token=1B35z1vAT5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880482.png" group-title="DOKUMENTALNE",FOKUS TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880482&extension=ts&play_token=q62XsPR1To
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880393.png" group-title="DOKUMENTALNE",STUDIOMED TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880393&extension=ts&play_token=MyGmSV1y1V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880388.png" group-title="DOKUMENTALNE",TVP DOKUMENT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880388&extension=ts&play_token=8whOUSBrwc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880238.png" group-title="DOKUMENTALNE",TVP HISTORIA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880238&extension=ts&play_token=PgSupjftcE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121743.png" group-title="DOKUMENTALNE",TVP HISTORIA 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121743&extension=ts&play_token=Nihds2NyL2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/1498959.png" group-title="SPORTOWE",ELEVEN SPORTS 1 4K/UHD
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1498959&extension=ts&play_token=XCmwjCVcPq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/905665.png" group-title="SPORTOWE",ELEVEN SPORTS 1 4K+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=905665&extension=ts&play_token=Uq1eMXLNRT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880457.png" group-title="SPORTOWE",ELEVEN SPORTS 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880457&extension=ts&play_token=zpZeOYfOU6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880456.png" group-title="SPORTOWE",ELEVEN SPORTS 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880456&extension=ts&play_token=yIpifObnKW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880455.png" group-title="SPORTOWE",ELEVEN SPORTS 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880455&extension=ts&play_token=6RonY7EEp7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880454.png" group-title="SPORTOWE",ELEVEN SPORTS 4
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880454&extension=ts&play_token=xjXoVh9aSt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880453.png" group-title="SPORTOWE",EUROSPORT 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880453&extension=ts&play_token=ssgyT6Ms6e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880452.png" group-title="SPORTOWE",EUROSPORT 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880452&extension=ts&play_token=NFkh8fIxwj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880500.png" group-title="SPORTOWE",CANAL+ 360
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880500&extension=ts&play_token=7Q6LSGjTI5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880499.png" group-title="SPORTOWE",CANAL+ NOW
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880499&extension=ts&play_token=xrf0OE0YhO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880461.png" group-title="SPORTOWE",CANAL+ SPORT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880461&extension=ts&play_token=5gTCGJQonO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880460.png" group-title="SPORTOWE",CANAL+ SPORT 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880460&extension=ts&play_token=H84adLAdTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880459.png" group-title="SPORTOWE",CANAL+ SPORT 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880459&extension=ts&play_token=Xok1lWOubj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880318.png" group-title="SPORTOWE",CANAL+ SPORT 4
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880318&extension=ts&play_token=AvQoly9b3g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880406.png" group-title="SPORTOWE",CANAL+ SPORT 5
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880406&extension=ts&play_token=ys2BXxMXPy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880471.png" group-title="SPORTOWE",POLSAT SPORT 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880471&extension=ts&play_token=NHFLLUzUMk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880470.png" group-title="SPORTOWE",POLSAT SPORT 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880470&extension=ts&play_token=8zAulFJIG3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880468.png" group-title="SPORTOWE",POLSAT SPORT 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880468&extension=ts&play_token=KOU8q1Cy2S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880467.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880467&extension=ts&play_token=jfCncNA8k3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880466.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880466&extension=ts&play_token=AEVNwWs1kd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880465.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880465&extension=ts&play_token=XWuUPYfx3k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880464.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 4
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880464&extension=ts&play_token=juiIj440IL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880463.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 5
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880463&extension=ts&play_token=VA3ETROuRL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880462.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 6
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880462&extension=ts&play_token=mtJMsA3eey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.95/images/880469.png" group-title="SPORTOWE",POLSAT SPORT FIGHT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880469&extension=ts&play_token=ITaTTVM19q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880502.png" group-title="SPORTOWE",TVP SPORT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880502&extension=ts&play_token=LvjPI8Q7Ty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880447.png" group-title="SPORTOWE",SPORTKLUB
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880447&extension=ts&play_token=G4LGnNMiKk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880420.png" group-title="SPORTOWE",FIGHTKLUB
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880420&extension=ts&play_token=09TaRz8Jer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880446.png" group-title="SPORTOWE",FIGHTBOX
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880446&extension=ts&play_token=PMkRDixRIe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880448.png" group-title="SPORTOWE",EXTREME SPORTS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880448&extension=ts&play_token=TKy5B6Siw9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880419.png" group-title="SPORTOWE",GOLF CHANNEL
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880419&extension=ts&play_token=OCIyKB9EW5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880413.png" group-title="SPORTOWE",MOTOWIZJA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880413&extension=ts&play_token=CjmkAdr0KQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880216.png" group-title="MUZYCZNE",ESKA TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880216&extension=ts&play_token=eQRHA5cUXm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880215.png" group-title="MUZYCZNE",ESKA TV EXTRA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880215&extension=ts&play_token=lGb3YSjxTF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880217.png" group-title="MUZYCZNE",ESKA ROCK TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880217&extension=ts&play_token=5LOKbpU3ad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880220.png" group-title="MUZYCZNE",4FUN.TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880220&extension=ts&play_token=5QyWzucRic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880222.png" group-title="MUZYCZNE",4FUN DANCE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880222&extension=ts&play_token=YjIvCzTG4C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880221.png" group-title="MUZYCZNE",4FUN GOLD HITS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880221&extension=ts&play_token=aev8yz6PoN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880204.png" group-title="MUZYCZNE",STARS.TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880204&extension=ts&play_token=GFpzvwkrYd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880207.png" group-title="MUZYCZNE",NUTA TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880207&extension=ts&play_token=Gy6Oh3j7pX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880199.png" group-title="MUZYCZNE",MUSIC BOX POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880199&extension=ts&play_token=7dAV3LK55d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121759.png" group-title="MUZYCZNE",360 TUNEBOX
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121759&extension=ts&play_token=WrFn3kB6Ou
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880213.png" group-title="MUZYCZNE",KINO POLSKA MUZYKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880213&extension=ts&play_token=EaIgW6eN1M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880400.png" group-title="MUZYCZNE",POLSAT MUSIC
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880400&extension=ts&play_token=vnSvWmylhF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880409.png" group-title="MUZYCZNE",MTV LIVE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880409&extension=ts&play_token=myHsiR4Nll
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880408.png" group-title="MUZYCZNE",MTV POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880408&extension=ts&play_token=lheYlGLdfN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121761.png" group-title="MUZYCZNE",MTV 00S
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121761&extension=ts&play_token=MsDwPo2zTF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880208.png" group-title="MUZYCZNE",MTV 80S
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880208&extension=ts&play_token=wjaQgP3ZZo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880198.png" group-title="MUZYCZNE",VOX MUSIC TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880198&extension=ts&play_token=KKc4GQ89jl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880205.png" group-title="MUZYCZNE",POWER TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880205&extension=ts&play_token=EB1ywSuNCv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121755.png" group-title="MUZYCZNE",DISCO POLO MUSIC
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121755&extension=ts&play_token=Uja9aJ235H
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880383.png" group-title="MUZYCZNE",POLO TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880383&extension=ts&play_token=5CyWJzWC18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121752.png" group-title="MUZYCZNE",MEZZO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121752&extension=ts&play_token=ry6DY5C2ja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/936837.png" group-title="REGIONALNE",TVP3 OPOLE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=936837&extension=ts&play_token=B6omIxhmWw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/936838.png" group-title="REGIONALNE",TVP3 POZNAN
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=936838&extension=ts&play_token=vPzH6mS4Ji
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1293996.png" group-title="SPORTOWE",WALKI 1 (LIVE EVENT ONLY)
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1293996&extension=ts&play_token=0pIAlZjNb1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916109.png" group-title="SPORTOWE", CANAL+ EXTRA 1 
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1916109&extension=ts&play_token=4oGUvslzxH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916108.png" group-title="SPORTOWE", CANAL+ EXTRA 2 
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1916108&extension=ts&play_token=p0sD7Kz5cz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916107.png" group-title="SPORTOWE", CANAL+ EXTRA 3 
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1916107&extension=ts&play_token=0NFJYSf7mk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916106.png" group-title="SPORTOWE", CANAL+ EXTRA 4 
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1916106&extension=ts&play_token=kWSklC1yed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916105.png" group-title="SPORTOWE", CANAL+ EXTRA 5 
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1916105&extension=ts&play_token=DUwEq91MiQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530240.png" group-title="DLA DZIECI",TVP ABC
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530240&extension=ts&play_token=ZrScK4Kx7D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530244.png" group-title="OGÓLNOTEMATYCZNE",TVP SERIALE
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530244&extension=ts&play_token=uIXXu9N9KP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530212.png" group-title="OGÓLNOTEMATYCZNE",POLSAT SPORT PREMIUM PPV3
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530212&extension=ts&play_token=l79VmnkhgL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530214.png" group-title="OGÓLNOTEMATYCZNE",POLSAT SPORT PREMIUM PPV5
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530214&extension=ts&play_token=cb3RCQkUGH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530216.png" group-title="OGÓLNOTEMATYCZNE",POLSAT VIASAT HISTORY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530216&extension=ts&play_token=Z6RLGR5hwK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530213.png" group-title="OGÓLNOTEMATYCZNE",POLSAT SPORT PREMIUM PPV4
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530213&extension=ts&play_token=zUsVxG9bZU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530215.png" group-title="OGÓLNOTEMATYCZNE",POLSAT SPORT PREMIUM PPV6
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530215&extension=ts&play_token=WfUmw8lYAW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1847051.png" group-title="OGÓLNOTEMATYCZNE",SKY SHOWTIME 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1847051&extension=ts&play_token=YvPMezMp4X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1847052.png" group-title="OGÓLNOTEMATYCZNE",SKY SHOWTIME 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1847052&extension=ts&play_token=OF1uSBpX3N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530129.png" group-title="OGÓLNOTEMATYCZNE",CANAL+ DOMO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530129&extension=ts&play_token=kkJsFbGgcz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530130.png" group-title="OGÓLNOTEMATYCZNE",CANAL+ FAMILY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530130&extension=ts&play_token=ryHyvt3MvQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530132.png" group-title="OGÓLNOTEMATYCZNE",CANAL+ KUCHNIA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530132&extension=ts&play_token=mDJseZu2JC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530139.png" group-title="OGÓLNOTEMATYCZNE",CANAL+ SPORT 5 POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530139&extension=ts&play_token=kkVQTowbI3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530113.png" group-title="OGÓLNOTEMATYCZNE",4 FUN KIDS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530113&extension=ts&play_token=jbdAprPAbE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530114.png" group-title="OGÓLNOTEMATYCZNE",4 FUN TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530114&extension=ts&play_token=Rh0xDHxhOW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530116.png" group-title="OGÓLNOTEMATYCZNE",AlLE INO+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530116&extension=ts&play_token=FnBaYdCiPV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530117.png" group-title="OGÓLNOTEMATYCZNE",AMC POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530117&extension=ts&play_token=SvZ8y8DaiM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530123.png" group-title="OGÓLNOTEMATYCZNE",BBC CBEEBIES POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530123&extension=ts&play_token=7JkLEqG2q1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530125.png" group-title="OGÓLNOTEMATYCZNE",BBC LIFESTYLE POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530125&extension=ts&play_token=UGu1rox1K6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530126.png" group-title="OGÓLNOTEMATYCZNE",BOOMERANG
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530126&extension=ts&play_token=MHzTExEgVN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530143.png" group-title="OGÓLNOTEMATYCZNE",CBS RRALITY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530143&extension=ts&play_token=12ihJaKmgb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530146.png" group-title="OGÓLNOTEMATYCZNE",CI POLSAT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530146&extension=ts&play_token=1sVpnDvOci
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530148.png" group-title="OGÓLNOTEMATYCZNE",DA VINCI POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530148&extension=ts&play_token=D0OpSeM2CF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530156.png" group-title="OGÓLNOTEMATYCZNE",E ENTERTAINMENT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530156&extension=ts&play_token=SZwFji2drq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530160.png" group-title="OGÓLNOTEMATYCZNE",EPIC DRAMA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530160&extension=ts&play_token=5lceEANrXw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530168.png" group-title="OGÓLNOTEMATYCZNE",FOX COMEDY POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530168&extension=ts&play_token=lNcTFuaH6s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530260.png" group-title="OGÓLNOTEMATYCZNE",FX COMEDY
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530260&extension=ts&play_token=00rGAGJwj7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530172.png" group-title="OGÓLNOTEMATYCZNE",HBO 3
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530172&extension=ts&play_token=u2sJWZvbYs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530174.png" group-title="OGÓLNOTEMATYCZNE",HISTORY 2 POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530174&extension=ts&play_token=wC6g2brcaZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530177.png" group-title="DLA DZIECI",MINIMINI+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530177&extension=ts&play_token=4PKVAthZFv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530179.png" group-title="MUZYCZNE",MTV 90s
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530179&extension=ts&play_token=aFSDqRR7wO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530183.png" group-title="OGÓLNOTEMATYCZNE",NATIONAL GEO
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530183&extension=ts&play_token=OcvyrJlZR0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530182.png" group-title="OGÓLNOTEMATYCZNE",NATIONAL GEOGRAPHIC WILD
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530182&extension=ts&play_token=CI9g6TaktV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530185.png" group-title="DLA DZIECI",NICK JR
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530185&extension=ts&play_token=3p4eulSo6P
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530186.png" group-title="OGÓLNOTEMATYCZNE",NOVELA TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530186&extension=ts&play_token=lliPHBA3SR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530188.png" group-title="OGÓLNOTEMATYCZNE",PARAMOUNT CHANNEL POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530188&extension=ts&play_token=QR0jQgrDPD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530259.png" group-title="OGÓLNOTEMATYCZNE",SCIENCE POLAND
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530259&extension=ts&play_token=e37NHhQISu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530219.png" group-title="OGÓLNOTEMATYCZNE",SCIFI POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530219&extension=ts&play_token=dWs3hZ7KSQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530258.png" group-title="OGÓLNOTEMATYCZNE",STOPKLATKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530258&extension=ts&play_token=0DC2p9WOQt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530221.png" group-title="OGÓLNOTEMATYCZNE",TEENNICK POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530221&extension=ts&play_token=dKSt7QH9C3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530225.png" group-title="OGÓLNOTEMATYCZNE",TRAVEL CHANNEL
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530225&extension=ts&play_token=Ja8L6FN08I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530246.png" group-title="OGÓLNOTEMATYCZNE",TV PULS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530246&extension=ts&play_token=1jGpEDOwyM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530249.png" group-title="OGÓLNOTEMATYCZNE",VIASAT EXPLORE POLSAT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530249&extension=ts&play_token=NV89aoTfeh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530250.png" group-title="OGÓLNOTEMATYCZNE",VIASAT NATURE POLSAT
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530250&extension=ts&play_token=GWKEVMlnS4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1530256.png" group-title="INFORMACYJNE",WPOLSCE.PL
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1530256&extension=ts&play_token=bPxpfoqBWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/897006.png" group-title="KANAŁY TVN PLAYER",ITVN
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=897006&extension=ts&play_token=TS8hk2JYg3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/897007.png" group-title="KANAŁY TVN PLAYER",ITVN EXTRA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=897007&extension=ts&play_token=YCARKN35dT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/897009.png" group-title="REGIONALNE",LUBELSKA TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=897009&extension=ts&play_token=xJ5tcfCO5R
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/897004.png" group-title="OGÓLNOTEMATYCZNE",CHANNEL 13
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=897004&extension=ts&play_token=BeG9TA4Yzw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/897011.png" group-title="OGÓLNOTEMATYCZNE",POLSAT 1
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=897011&extension=ts&play_token=iRTYT8ewXz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121740.png" group-title="DLA DZIECI",TVP ABC 2
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121740&extension=ts&play_token=BpLqfihEdQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121750.png" group-title="DLA DZIECI",DUCK TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121750&extension=ts&play_token=OdMDxTr4IJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121751.png" group-title="DLA DZIECI",DUCK TV PLUS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121751&extension=ts&play_token=bvdw8smool
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880226.png" group-title="DLA DZIECI",BBC CBEEBIES
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880226&extension=ts&play_token=1DQFeJxkvc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/897016.png" group-title="DLA DZIECI",TOP KIDS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=897016&extension=ts&play_token=556adZmFw9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880225.png" group-title="DLA DZIECI",BABY TV
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880225&extension=ts&play_token=ba7mEQLlIE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880211.png" group-title="DLA DZIECI",NICK JR POLSKA
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880211&extension=ts&play_token=9z4gR3bsdR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/1121757.png" group-title="DLA DZIECI",NICK MUSIC
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=1121757&extension=ts&play_token=6Cg0O829Dt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880210.png" group-title="DLA DZIECI",NICKELODEON
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880210&extension=ts&play_token=3h7lm6x3qZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880412.png" group-title="DLA DZIECI",NICKTOONS
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880412&extension=ts&play_token=d598f0qoRP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880206.png" group-title="DLA DZIECI",POLSAT JIM JAM
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880206&extension=ts&play_token=AfEDFxECh6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880285.png" group-title="DLA DZIECI",DISNEY CHANNEL
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880285&extension=ts&play_token=j9A5RzF4HJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880219.png" group-title="DLA DZIECI",DISNEY JUNIOR
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880219&extension=ts&play_token=6a3J1fuKWO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880250.png" group-title="DLA DZIECI",TELETOON+
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880250&extension=ts&play_token=1PsIgoNA50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880274.png" group-title="DLA DZIECI",MINIMINI
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880274&extension=ts&play_token=GhjaQ26Pgf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.92/images/880292.png" group-title="DLA DZIECI",CARTOON NETWORK
+http://mag.senpay25.com:80/play/live.php?mac=00:1E:B8:D9:81:99&stream=880292&extension=ts&play_token=qUbFA1N2Ii
