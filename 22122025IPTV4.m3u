@@ -1,0 +1,229 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tvp-hd.png",TVP
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/126
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://s.tvp.pl/images/images/e/a/1/uid_ea1d3a165cb646eba158738a3d0aabdd_width_100_play_0_pos_0_gs_0_height_100.png",TVP 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/149
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://s.tvp.pl/images/images/f/f/9/uid_ff985ca270284f6fb5722965d6f553be_width_100_play_0_pos_0_gs_0_height_100.png",TVP 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/147
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://v.wpimg.pl/OC81ODEuYCJZUzl3ag5tNxoLbSc1HRAzTEdiNzEUKCYaHW0xZ09tbFReKCtqFz0qX1k7a3RHd2wNCX5qNRsoYUU",TV Republika
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/154
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://v.wpimg.pl/OC84MTAuYCJZVjtnbg5tNxoObzcxHRAzTEJgJzUUKCYaGG8hY09tbFRbKjtuFz0qX1w5e3BHd2wABX16MRsoYUU",wPolsce24
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/153
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://iptvboss.xyz/logos/Poland/Polsat.pl.png",Polsat
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/145
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://v.wpimg.pl/OC83MDguYCJZUTt3SA5tNxoJbycXHRAzTEVgNxMUKCYaH28xRU9tbFRcKitIFz0qX1s5a1ZHd2wPA3VqFxsoYUU",Polsat 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/470981
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://iptvboss.xyz/logos/Poland/Polsat2.pl.png",Polsat 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/143
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://epg.iptvx.one/picons/tvn24-pl.png",TVN 24
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/161
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://epg.iptvx.one/picons/tvn24-bis-pl.png",TVN 24 BiS
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/159
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://v.wpimg.pl/OC80MzEuYCJZUjtJag5tNxoKbxk1HRAzTEZgCTEUKCYaHG8PZ09tbFRfKhVqFz0qX1g5VXRHd2wMA3xUNRsoYUU",Polsat News
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/158
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://iptvboss.xyz/logos/Poland/PolsatNews2.pl.png",Polsat News 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/156
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://epg.ovh/logo/Polsat+News+Polityka.png",Polsat News Polityka
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/152
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://epg.iptvx.one/picons/wydarzenia-24.png",Wydarzenia 24
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/713756
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://epg.iptvx.one/picons/tvp-info.png",TVP Info
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/709746
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://iptvboss.xyz/logos/Poland/Echo24.pl.png",Echo 24 HD
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/907638
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://i.postimg.cc/gcKVdQYg/Super-express.png",Super Express TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/915773
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://cdn.lugc.link/b21488d4-b955-4cae-bb31-df5127dd94b4/-/preview/-/stretch/off/-/format/auto/-/quality/normal/-/resize/200x/",News24
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/865782
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://epg.ovh/logo/Biznes24+HD.png",Biznes24
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/150
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://telewizjabiznesowa.pl/wp-content/uploads/2023/09/LOGO-V6a-rgb.png",TVBiznesowa
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/792824
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://s.tvp.pl/images/images/c/c/6/uid_cc62f9e2c7ca47acb46662574af0c60e_width_100_play_0_pos_0_gs_0_height_100.png",Sejm RP ( Live only )
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/693087
+#EXTINF:-1 group-title="Informacje" tvg-logo="https://s.tvp.pl/images/images/0/f/0/uid_0f03789f83a24890a9142b7d0a1ef141_width_100_play_0_pos_0_gs_0_height_100.png",TVP Parlament - Senat ( Live only )
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/1046956
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://iptvboss.xyz/logos/Poland/TVN.pl.png",TVN
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/1127441
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/iTVN.png",iTVN
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/140
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.iptveditor.com/itvnextra.png",iTVN Extra
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/6355
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVN+7.png",TVN 7
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/139
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://v.wpimg.pl/OC8zMzMuYCJZGDtJYg5tNxpAbxk9HRAzTAxgCTkUKCYaVm8Pb09tbFQVKhViFz0qXxI5VXxHd2wLSX5UPRsoYUU",TVN Style
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/137
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://v.wpimg.pl/OC8xNDUuYCJZGjh3eg5tNxpCbCclHRAzTA5jNyEUKCYaVGwxd09tbFQXKSt6Fz0qXxA6a2RHd2wJTHtqJRsoYUU",TVN Turbo
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/135
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://forum.graterlia.tv/uploads/monthly_2015_03/1_0_1_10DD_3E8_13E_820000_0_0_0.png.c9a5dda3328c123b2869f3c6e6cb2541.png",TTV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/133
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tv4-pl.png",TV 4
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/132
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://inea.pl/sites/default/files/2024-10/TV_Puls.png",TV Puls
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/131
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Puls+2.png",Puls 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/130
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/polsat-cafe.png",Polsat Cafe
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/129
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/polsat-play.png",Polsat Play
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/128
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/polsat-rodzina.png",Polsat Rodzina
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/2718
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Games.png",Polsat Games
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/127
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tv6-pl.png",TV 6
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/122
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tvp3.png",TVP 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/125
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tvp-kobieta.png",TVP Kobieta
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/37930
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tvp-rozrywka.png",TVP Rozrywka
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/124
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/food-network-pl.png",Food Network
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/113
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/canal-pl-kuchnia.png",Canal+ Kuchnia
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/117
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/canal-pl-domo.png",Canal+ Domo
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/116
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/hgtv-pl.png",HGTV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/115
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/HOME+TV.png",Home TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/114
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Active+Family.png",Active Family
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/112
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/7c/7coivzz3yh2qk1szj5w6r5gknxjpqfeo.png",Kabaret TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/828872
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://inea.pl/sites/default/files/2024-10/Antena.png",Antena TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/36868
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://icdn.cda.pl/tv/oryginalne/light_915b.png",Xtreme TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/952508
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tlc.png",TLC
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/123
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://logo.iptveditor.com/superpolsat.png",Super Polsat
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/121
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/wp-pl.png",WP
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/111
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/zoom.png",Zoom TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/110
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/e-entertaiment-pl.png",E! Entertainment
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/109
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/nowatv.png",Nowa TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/108
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/METRO.png",Metro
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/107
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tvp-kultura.png",TVP Kultura
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/106
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tvp-kultura-2.png",TVP Kultura 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/36263
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tvp-polonia.png",TVP Polonia
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/105
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://i.postimg.cc/Hxg6vM2n/muratortv.png",Murator TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/915774
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://i.postimg.cc/7ZrJ2NY5/poradnikzdrowie.png",Poradnik Zdrowie
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/915775
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://iptvboss.xyz/logos/Poland/13.tv.pl.png",13.TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/414498
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/tele5.png",Tele 5
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/104
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.iptvx.one/picons/polonia1.png",Polonia 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/103
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TBN+Polska+HD.png",TBN Polska
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/102
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVC.png",TVC
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/327960
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://static.wirtualnemedia.pl/media/images/2013/imagesnew/tvc-super-logo-042023-660ff3e377a97.jpg",TVC Super
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/794609
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Pogoda24+TV.png",Pogoda24 TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/984823
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Fashion+TV+HD%20.png",Fashion TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/332731
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://inea.pl/sites/default/files/2024-10/TV_Trwam.png",TV Trwam
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/101
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://i.iheart.com/v3/re/assets/images/04a21555-40dd-4df8-9c11-3bc6e9067f96.png",EWTN Polska
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/886548
+#EXTINF:-1 group-title="Ogólne" tvg-logo="https://icdn.cda.pl/tv/oryginalne/light_9991.png",CTV - Dla Ciebie
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/681838
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport.png",Canal+ Sport
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/196
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png",Canal+ Sport 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/195
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+3.png",Canal+ Sport 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/194
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+4.PL.png",Canal+ Sport 4
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/193
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/192
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Now.png",Canal+ Now
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/191
+#EXTINF:-1 group-title="Sport" tvg-logo="https://v.wpimg.pl/OC8xMjAuYCJZGjtZbg5tNxpCbwkxHRAzTA5gGTUUKCYaVG8fY09tbFQXKgVuFz0qXxA5RXBHd2wJSn1EMRsoYUU",Polsat Sport 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/190
+#EXTINF:-1 group-title="Sport" tvg-logo="https://iptvboss.xyz/logos/Poland/PolsatSport2.pl.png",Polsat Sport 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/188
+#EXTINF:-1 group-title="Sport" tvg-logo="https://v.wpimg.pl/OC8yNjkuYCJZGzhZRA5tNxpDbAkbHRAzTA9jGR8UKCYaVWwfSU9tbFQWKQVEFz0qXxE6RVpHd2wKT3dEGxsoYUU",Polsat Sport 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/186
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-fight.png",Polsat Sport Fight
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/187
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr1.png",Polsat Sport Premium 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/185
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr2.png",Polsat Sport Premium 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/184
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr5.png",Polsat Sport Extra 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/181
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr6.png",Polsat Sport Extra 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/180
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr3.png",Polsat Sport Extra 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/183
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-pr4.png",Polsat Sport Extra 4
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/182
+#EXTINF:-1 group-title="Sport" tvg-logo="https://media.teleman.pl/logos/m/172.png",Eleven Sports 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/179
+#EXTINF:-1 group-title="Sport" tvg-logo="https://media.teleman.pl/logos/m/160.png",Eleven Sports 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/178
+#EXTINF:-1 group-title="Sport" tvg-logo="https://media.teleman.pl/logos/m/90.png",Eleven Sports 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/177
+#EXTINF:-1 group-title="Sport" tvg-logo="https://media.teleman.pl/logos/m/92.png",Eleven Sports 4
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/176
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/eurosport1.png",Eurosport 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/174
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/eurosport2.png",Eurosport 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/173
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/tvp-sport.png",TVP Sport
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/172
+#EXTINF:-1 group-title="Sport" tvg-logo="https://media.teleman.pl/logos/m/87.png",SportKlub
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/170
+#EXTINF:-1 group-title="Sport" tvg-logo="https://media.teleman.pl/logos/m/51.png",Extreme Sports
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/169
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/fightbox-pl.png",FightBox
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/168
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/fightklub-pl.png",FightKlub
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/167
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Motowizja.png",Motowizja
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/166
+#EXTINF:-1 group-title="Sport" tvg-logo="https://r.dcs.redcdn.pl/scale/o2/misot/prod/upload/live/213498/images/2728518_1709304934688?srcx=0&srcy=0&srcw=4800&srch=2700&dstw=1200&dsth=630&srcmode=0&quality=80&type=0",Sportowa.TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/712271
+#EXTINF:-1 group-title="Sport" tvg-logo="https://toppng.com/public/uploads/preview/real-madrid-logo-1152753167657rfehnnfw.png",Real Madrid TV
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/539210
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.ovh/logo/Gametoon.png",Gametoon
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/163
+#EXTINF:-1 group-title="Sport" tvg-logo="https://epg.iptvx.one/picons/canal-pl-extra-1.png",C4NAL+ Extra 1 ( Live Only )
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/909840
+#EXTINF:-1 group-title="Sport" tvg-logo="https://iptvboss.xyz/logos/Poland/CANAL%2BEXTRA1.pl.png",C4NAL+ Extra 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/988183
+#EXTINF:-1 group-title="Sport" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/ncms-test/logo/CANAL+_EXTRA2.png",C4NAL+ Extra 2 ( Live Only )
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/909839
+#EXTINF:-1 group-title="Sport" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/ncms-test/logo/CANAL+_EXTRA2.png",C4NAL+ Extra 2
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/1094023
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pl.canalplus.com/resources/icons/Lextra3.png",C4NAL+ Extra 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/909838
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pl.canalplus.com/resources/icons/Lextra3.png",CANAL+ Extra 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/1094024
+#EXTINF:-1 group-title="Sport" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/ncms-test/logo/CANAL+_EXTRA4.png",C4NAL+ Extra 4
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/909837
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pl.canalplus.com/resources/icons/Lextra6.png",C4NAL+ Extra 6
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/928511
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pl.canalplus.com/resources/icons/CANALonline.png",Canal+ Online Events 1
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/9212
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pl.canalplus.com/resources/icons/CANALonline.png",Canal+ Online Events 3
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/9214
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pl.canalplus.com/resources/icons/CANALonline.png",Canal+ Online Events 5
+http://gab2909.itservice.fans:80/MartaSzpoton/k46GU2ExYNc1bqp9/879142
